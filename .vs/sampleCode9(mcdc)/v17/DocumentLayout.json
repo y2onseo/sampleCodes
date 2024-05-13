@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisualStudio\\Repos\\sampleCode9(mcdc)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6919347-6542-429C-BC51-61884E9DD2C3}|sampleCode9(mcdc)\\sampleCode9(mcdc).vcxproj|E:\\VisualStudio\\Repos\\sampleCode9(mcdc)\\sampleCode9(mcdc)\\sampleCode9(mcdc).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6919347-6542-429C-BC51-61884E9DD2C3}|sampleCode9(mcdc)\\sampleCode9(mcdc).vcxproj|solutionrelative:sampleCode9(mcdc)\\sampleCode9(mcdc).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sampleCode9(mcdc).cpp",
+              "DocumentMoniker": "E:\\VisualStudio\\Repos\\sampleCode9(mcdc)\\sampleCode9(mcdc)\\sampleCode9(mcdc).cpp",
+              "RelativeDocumentMoniker": "sampleCode9(mcdc)\\sampleCode9(mcdc).cpp",
+              "ToolTip": "E:\\VisualStudio\\Repos\\sampleCode9(mcdc)\\sampleCode9(mcdc)\\sampleCode9(mcdc).cpp",
+              "RelativeToolTip": "sampleCode9(mcdc)\\sampleCode9(mcdc).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T04:45:38.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
